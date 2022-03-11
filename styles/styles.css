@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url("banner.css");
+@import url("buttons.css");
+@import url("cards.css");
+@import url("footer.css");
+
+a {
+  text-decoration: none;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  background-color: #FDF5E6;
+}
+
+h1, h2, h3 {
+  font-family: 'Comfortaa', cursive;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+h1 {
+  color: #A52A2A
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.fa-brands {
+	font-size: 40px;
+	color: rgb(0,0,0,0.4);
+
+}
+.fa-brands:hover {
+	color : black;
+}
